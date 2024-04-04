@@ -1,8 +1,8 @@
-*** Library ***
-Library  SeleniumLibray
+*** Settings ***
+Library  SeleniumLibrary
 
 *** Variables ***
 
-*** Tests ***
+*** Test Cases ***
 Abrir navegador
-    Open browser  "www.google.com" chrome
+    Open Browser  https://www.google.com  Chrome

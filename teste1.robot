@@ -5,4 +5,4 @@ Library  SeleniumLibrary
 
 *** Test Cases ***
 Abrir navegador
-    Open Browser  https://www.google.com  Chrome
+    Open Browser  https://sei.prefeitura.sp.gov.br/sei/  Chrome  
